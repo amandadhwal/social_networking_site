@@ -1,4 +1,4 @@
-Free Download Source Code "Online_social_networking_site"
+Here some Steps to run this code
 
 FIRST Download
 
@@ -24,7 +24,3 @@ FIRST Download
 
 Username: harry
 Password: pass
-
-
-
-#THANK YOU FOR DOWNLOADING
